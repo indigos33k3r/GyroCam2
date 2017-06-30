@@ -1,4 +1,4 @@
-# Gyro-Camera-Gimbal
+# GyroCam2
 
 A 2-axis servo-based gimbal for pitch and roll using MPU-6050 as sensor
 

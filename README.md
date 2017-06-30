@@ -9,3 +9,5 @@ Pitch servo to D10 and Roll servo to D11.
 Servos and MPU use 5 volts from Arduino and common ground.
 
 NOTE: You can adjust the resting servo angle from the sketch.
+
+TODO: Adding pots for servo calibration.

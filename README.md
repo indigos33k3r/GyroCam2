@@ -12,4 +12,3 @@ NOTE: You can adjust the resting servo angle from the sketch.
 
 TODO: Adding pots for servo calibration.
 
-https://thingiverse-production-new.s3.amazonaws.com/renders/de/ca/86/a1/7f/2014-01-26_21.29.27_preview_featured.jpg

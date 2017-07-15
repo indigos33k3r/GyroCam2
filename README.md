@@ -12,5 +12,8 @@ Servos and MPU use 5 volts from Arduino and common ground.
 
 NOTE: You can adjust the resting servo angle from the sketch.
 
-TODO: Adding pots for servo calibration.
+TODO: 
+Add pots for servo calibration.
+Add magnetometer for yaw (3D)
+
 

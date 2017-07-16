@@ -14,6 +14,7 @@ NOTE: You can adjust the resting servo angle from the sketch.
 
 TODO: 
 Add pots for servo calibration.
-Add magnetometer for yaw (3D)
+Add magnetometer for yaw (3D).
+Buttons to reverse servo.
 
 
